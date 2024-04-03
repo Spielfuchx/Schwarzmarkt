@@ -1,4 +1,4 @@
-# esx_Schwarzmarkt
+# Schwarzmarkt
 Schwarzmarkt script made by SpielFuchx 
 
 ### Installation
