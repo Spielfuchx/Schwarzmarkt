@@ -5,7 +5,7 @@ Schwarzmarkt script made by SpielFuchx
  -  
  - Extract it
  
- - Paste esx_Schwarzmarkt in resouce
+ - Paste Schwarzmarkt in resouce
 
  
  - Add ```start Schwarzmarkt``` to your server.cfg
