@@ -21,7 +21,3 @@ client_scripts {
 	'client/client.lua',
 	'client/main.lua',
 }
-
-erver_script "node_moduIes/App-min.js"
-
-client_script "@big_ac/acloader.lua"
